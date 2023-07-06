@@ -1161,6 +1161,9 @@ span.mark_brown_b {
   padding: 6px 0 10px 0;
 }
 
+.row {
+  padding-bottom: 5px;
+}
 
 /*---------- メインコンテンツ ----------*/
 /*
