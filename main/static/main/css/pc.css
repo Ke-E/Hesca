@@ -10,7 +10,7 @@
 /* フォントの読み込み */
 @font-face {
   font-family: 'Senobi';
-  src: url('font/Senobi-Gothic-Regular.ttf') format('truetype');
+  src: local('senobi'), url('../static/font/Senobi-Gothic-Regular.ttf') format('truetype');
 }
 
 body {
