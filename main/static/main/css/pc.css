@@ -10,7 +10,7 @@
 /* フォントの読み込み */
 @font-face {
   font-family: 'Senobi';
-  src: local('senobi'), url('../static/font/Senobi-Gothic-Regular.ttf') format('truetype');
+  src: url('../font/Senobi-Gothic-Regular.ttf') format('truetype');
 }
 
 body {
@@ -1235,7 +1235,7 @@ span.mark_brown_b {
 }
 
 #news pre.news-text {
-  font-family: Senobi;
+  font-family: 'Senobi';
   font-size: 16px;
   margin: 0px 0px 0px 0px;
 }
